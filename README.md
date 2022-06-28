@@ -1,6 +1,8 @@
 # Arweave Decentralized Web Nodes
 
- Decentralized Backend functionality for DWA's using mesh network methodology.
+ Decentralized Backend functionality for DWA's using mesh network methodology. Currently the permaweb has "web server" functionality, but not "app server" functionality. A web server provides clients with static assets such as images, html, javascript, cascading style sheets and so on. An application server’s primary job is to provide its clients with access to what is commonly called business logic, which is code that executes at the server side for each request/response pair. The business logic may produce dynamic content as part of its response. Communication between the application server and its clients might take the form of HTTP(S) messages, but this is not a requirement. Application servers can typically manage any type of message transfer, including WebSockets and many other protocols.
+ 
+ This is the gap that needs to be filled to make the decentralized static websites that currently exist on par with centralized websites. 
 
  ## What is an ADWN?
 
